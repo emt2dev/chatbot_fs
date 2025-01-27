@@ -3,6 +3,7 @@ fullstack wsgi python server with nextjs and tinyllama
 
 
 ## Build instructions:
+0. Open docker desktop
 1. Go into each directory and download the workspace files.
 2. Once downloaded, open each into vscode.
 3. Run the webclient using terminal inside of the workspace: npm run dev (make note of what port you're running on.
